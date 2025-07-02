@@ -12,3 +12,7 @@ A sleek and modern web interface featuring a smart navigation bar that adapts to
 > Fully responsive layout for all device sizes
 
 > Simple to customize and plug into any project
+
+Preview
+https://github.com/user-attachments/assets/f03a5aea-f80a-48a7-a18b-f788b6ed24f7
+
